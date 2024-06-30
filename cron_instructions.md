@@ -47,14 +47,14 @@ Since `cron` runs processes in the background, it can be challenging to launch a
 
 Therefore, let's create two bash scripts: 
 
-* `switch_on.sh`, for launching the processing sketch:
+* `switch_on.sh`, for launching the Processing sketch:
 ``` bash
 #!/bin/bash
 /usr/local/bin/processing-java --sketch=/path/to/your/sketch/folder --force --run 2>> /path/to/your/desktop/error_log.txt 
 ```
 and
 
-* `switch_off.sh`, for killing the process:
+* `switch_off.sh`, for killing the same process:
 
 ``` bash
 #!/bin/bash
