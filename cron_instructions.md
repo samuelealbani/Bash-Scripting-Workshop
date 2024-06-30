@@ -35,7 +35,7 @@ Security & Privacy > Privacy > Full Disk Access apps/execs.
 2. Enable cron.
 
 
-To enabe cron:
+To enable cron:
 - click the + button
 - hit ⌘⇧G
 - enter /usr/sbin
