@@ -3,7 +3,7 @@
 Cron is a time-based job scheduling system in Unix-like operating systems. It enables users to schedule jobs (commands or scripts) to run automatically at specified times or intervals. Cron uses a configuration file known as a crontab to store the schedule of tasks. Each task scheduled by cron is called a cron job. Users can edit their crontab to add, modify, or remove tasks according to their needs. Cron is widely used for automating system maintenance, administration tasks, and any repetitive jobs that need to run at fixed times or intervals.
 
 To edit you cronjobs:
-> EDITOR=nano crontab -e
+> $ EDITOR=nano crontab -e
 
 ```bash 
 # ┌───────────── minute (0–59)
@@ -24,7 +24,7 @@ To edit you cronjobs:
 
 
 To print the list of your cronjobs:
-> crontab -l
+> $ crontab -l
 
 ### System Permissions
 
