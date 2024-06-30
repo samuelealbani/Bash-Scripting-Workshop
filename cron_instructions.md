@@ -45,23 +45,23 @@ To enabe cron:
 
 Since `cron` runs processes in the background, it can be challenging to launch applications that require a graphical interface (such as a visual sketch in Processing).
 
-Therefore, let's create two bash scripts: one for launching the applications we need.
+Therefore, let's create two bash scripts: 
 
-* `switch_on.sh`
+* `switch_on.sh`, for launching the processing sketch:
 ``` bash
 #!/bin/bash
 /usr/local/bin/processing-java --sketch=/path/to/your/sketch/folder --force --run 2>> /path/to/your/desktop/error_log.txt 
 ```
 and
 
-* `switch_off.sh`
+* `switch_off.sh`, for killing the process:
 
 ``` bash
 #!/bin/bash
 pkill -f 'java.*processing'
 ```
 
-Then, create an AppleScript using the `Script Editor` called `runApplication.scpt` that opens a Terminal window to execute the `switch_on.sh` script
+Then, create an AppleScript using the `Script Editor` called `runApplication.scpt` that opens a Terminal window to execute the `switch_on.sh` script:
 
 ``` AppleScript
 tell application "Terminal"
