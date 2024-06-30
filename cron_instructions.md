@@ -17,10 +17,10 @@ To edit you cronjobs:
 # * * * * * <command to execute>
 ``` 
 
-\* (asterisk) - represents all possible values for a field.
-\, (comma) - specifies a list of values.
-\- (dash) - specifies a range of values.
-\/ (slash) - specifies a step value.
+- \* (asterisk) - represents all possible values for a field.
+- \, (comma) - specifies a list of values.
+- \- (dash) - specifies a range of values.
+- \/ (slash) - specifies a step value.
 
 
 To print the list of your cronjobs:
