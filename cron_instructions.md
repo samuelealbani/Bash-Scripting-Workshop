@@ -26,7 +26,7 @@ To edit you cronjobs:
 To print the list of your cronjobs:
 > crontab -l
 
-### Sistem Permissions
+### System Permissions
 
 To add the exception:
 Security & Privacy > Privacy > Full Disk Access apps/execs.
