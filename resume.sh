@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# comment out each section to explore the topics
+
 ### commands
 # echo 'Hello World!'
 # mkdir main
@@ -55,7 +57,6 @@
 # then
 #     echo "$1 is the first parameter"
 # fi
-
 # echo "you passed $# parameter(s): $@."
 # if [ $# -gt 0 ]
 # then
