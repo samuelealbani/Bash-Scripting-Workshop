@@ -92,7 +92,7 @@ echo "$user_favourite? Bleahhh"
 
 Shell scripts are files containing a series of commands that the shell can execute.
 
-You can practice executing the provided script [example]().
+You can practice executing the provided script [example](https://github.com/samuelealbani/Bash-Scripting-Workshop/blob/main/script.sh).
 
 - **Shebang (`#!`)**: The first line in a script, indicating the script's interpreter. You can find the path with `which bash`.
 ``` bash
