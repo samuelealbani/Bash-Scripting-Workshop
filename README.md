@@ -19,6 +19,6 @@ Online Resources:
 - [Task Scheduler on Windows](https://learn.microsoft.com/en-gb/windows/win32/taskschd/schtasks?redirectedfrom=MSDN)
 
 
-Introduction: [bash fundamentals]()
-Advanced: [crontab on mac example](https://github.com/samuelealbani/Bash-Scripting-Workshop/blob/main/cron_instructions.md)
+- Introduction: [bash fundamentals](https://github.com/samuelealbani/Bash-Scripting-Workshop/blob/main/bash_fundamentals.md)
+- Advanced: [crontab on mac example](https://github.com/samuelealbani/Bash-Scripting-Workshop/blob/main/cron_instructions.md)
 
