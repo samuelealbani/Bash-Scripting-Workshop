@@ -13,6 +13,7 @@ It’s also recommended to have [Processing](https://processing.org/download) an
 Workshop Instructions:
 - Introduction: [bash fundamentals](https://github.com/samuelealbani/Bash-Scripting-Workshop/blob/main/bash_fundamentals.md)
 - Advanced: [crontab on mac example](https://github.com/samuelealbani/Bash-Scripting-Workshop/blob/main/cron_instructions.md)
+- [Example Processing sketch](https://github.com/samuelealbani/Bash-Scripting-Workshop/tree/main/visual)
 
 Online Resources:
 - [Bash Reference Manual](https://www.gnu.org/software/bash/manual/bash.html)
