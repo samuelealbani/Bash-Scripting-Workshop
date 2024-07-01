@@ -7,8 +7,12 @@ You will need your laptop for the session. Bash scripts run natively on Linux an
 It’s also recommended to have Processing and VSCode installed.
 
 
-Resources:
-Bash Reference Manual
-Shell Syntax
-Shell Scripts
-Crontab Alternative for Windows
+Online Resources:
+- [Bash Reference Manual](https://www.gnu.org/software/bash/manual/bash.html)
+- [Shell Syntax](https://www.gnu.org/software/bash/manual/bash.html#Shell-Syntax)
+- [Shell Scripts](https://www.gnu.org/software/bash/manual/bash.html#Shell-Scripts)
+- [crontab on Linux/MacOS](https://pubs.opengroup.org/onlinepubs/9699919799/utilities/crontab.html)
+- [Task Scheduler on Windows](https://learn.microsoft.com/en-gb/windows/win32/taskschd/schtasks?redirectedfrom=MSDN)
+
+
+Advanced: [crontab on mac example](https://github.com/samuelealbani/Bash-Scripting-Workshop/blob/main/cron_instructions.md)
