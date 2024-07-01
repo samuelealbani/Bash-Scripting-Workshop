@@ -50,7 +50,7 @@ To enable cron:
 
 ### Install processing-java
 
-To run Processing sketches from the command line, install the processing-java command line tool.
+To run Processing sketches from the command line, install the `processing-java` command line tool.
 
 1. Check if processing-java command line tool is installed by typing processing-java in the terminal. If it returns `processing-java: command not found` proceed to step #2
 
