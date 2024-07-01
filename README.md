@@ -10,6 +10,9 @@ You will need your laptop for the session. Bash scripts run natively on Linux an
 
 It’s also recommended to have [Processing](https://processing.org/download) and [VSCode](https://code.visualstudio.com/download) installed.
 
+Workshop Instructions:
+- Introduction: [bash fundamentals](https://github.com/samuelealbani/Bash-Scripting-Workshop/blob/main/bash_fundamentals.md)
+- Advanced: [crontab on mac example](https://github.com/samuelealbani/Bash-Scripting-Workshop/blob/main/cron_instructions.md)
 
 Online Resources:
 - [Bash Reference Manual](https://www.gnu.org/software/bash/manual/bash.html)
@@ -19,6 +22,4 @@ Online Resources:
 - [Task Scheduler on Windows](https://learn.microsoft.com/en-gb/windows/win32/taskschd/schtasks?redirectedfrom=MSDN)
 
 
-- Introduction: [bash fundamentals](https://github.com/samuelealbani/Bash-Scripting-Workshop/blob/main/bash_fundamentals.md)
-- Advanced: [crontab on mac example](https://github.com/samuelealbani/Bash-Scripting-Workshop/blob/main/cron_instructions.md)
 
