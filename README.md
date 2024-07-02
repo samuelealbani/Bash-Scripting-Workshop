@@ -7,10 +7,8 @@ by Samuele Albani
 #### Table of Contents
 
 1. [Introduction](#introduction)
-2. [Workshop Requirements](#workshop-requirements)
-3. [Online Resources](#online-resources)
-4. [Bash Fundamentals](#bash-fundamentals)
-5. [Crontab on MacOS](#cron-on-macos)
+2. [Bash Fundamentals](#bash-fundamentals)
+3. [Crontab on MacOS](#cron-on-macos)
 
 ---
 
