@@ -11,7 +11,7 @@ You will need your laptop for the session. Bash scripts run natively on Linux an
 It’s also recommended to have [Processing](https://processing.org/download) and [VSCode](https://code.visualstudio.com/download) installed.
 
 Workshop Material:
-- Introduction: [bash fundamentals](https://github.com/samuelealbani/Bash-Scripting-Workshop/blob/main/bash_fundamentals.md)
+- Introduction: [bash fundamentals](https://samuelealbani.github.io/Bash-Scripting-Workshop/material/bash_fundamentals.md)
 - Advanced: [crontab on mac example](https://github.com/samuelealbani/Bash-Scripting-Workshop/blob/main/cron_instructions.md)
 - [Example Processing sketch](https://github.com/samuelealbani/Bash-Scripting-Workshop/tree/main/visual)
 
