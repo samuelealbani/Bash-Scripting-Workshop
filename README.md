@@ -2,10 +2,7 @@
 
 by Samuele Albani
 
-***
-
-
-
+---
 
 #### Table of Contents
 
