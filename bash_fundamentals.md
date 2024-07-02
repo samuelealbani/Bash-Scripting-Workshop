@@ -101,7 +101,7 @@ Understanding shell syntax is crucial for writing effective scripts:
   ``` bash
   echo -n "Enter your favourite food: "
   read user_favourite
-  echo "$user_favourite? Bleahhh" 
+  echo "$user_favourite? Bleahhh" # ;)
   ```
 
 ## Shell Scripts
