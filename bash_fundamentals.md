@@ -25,6 +25,9 @@ Bash includes several built-in commands that are essential for daily operations:
 Understanding shell syntax is crucial for writing effective scripts:
 
 - **Quotes**: Used to handle spaces and special characters in strings. Single quotes (`'`) preserve the literal value of each character, while double quotes (`"`) allow for variable expansion and command substitution.
+  ``` bash
+  echo 'Hello, World!'
+  ```
 - **Dollar Sign (`$`)**: Used to access variable values or to execute command substitution.
   - **Variables**: Store data that is assigned to a name and can be reused and manipulated. Defined without a `$` but accessed with a `$` prefix.
     ``` bash
