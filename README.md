@@ -1,5 +1,7 @@
 # Bash Scripting Workshop for System Automation
+
 by Samuele Albani
+
 ***
 
 
